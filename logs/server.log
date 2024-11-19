@@ -1,0 +1,164 @@
+2024-11-19 23:48:01,388 - User file not found: users.json
+2024-11-19 23:48:09,793 - Loaded users from users.json
+2024-11-19 23:48:09,793 - Server started 127.0.0.1:8080
+2024-11-19 23:48:21,130 - Connection from ('127.0.0.1', 45820)
+2024-11-19 23:49:35,564 - Loaded users from users.json
+2024-11-19 23:49:35,564 - Server started 127.0.0.1:8080
+2024-11-19 23:49:39,524 - Connection from ('127.0.0.1', 46992)
+2024-11-19 23:51:40,501 - Loaded users from users.json
+2024-11-19 23:51:40,501 - Server started 127.0.0.1:8080
+2024-11-19 23:51:45,213 - Connection from ('127.0.0.1', 36534)
+2024-11-19 23:52:00,982 - Loaded users from users.json
+2024-11-19 23:52:00,982 - Server started 127.0.0.1:8080
+2024-11-19 23:52:04,236 - Connection from ('127.0.0.1', 42240)
+2024-11-19 23:52:23,540 - Loaded users from users.json
+2024-11-19 23:52:23,540 - Server started 127.0.0.1:8080
+2024-11-19 23:52:26,014 - Connection from ('127.0.0.1', 48800)
+2024-11-19 23:55:06,567 - Loaded users from users.json
+2024-11-19 23:55:06,567 - Server started 127.0.0.1:8080
+2024-11-19 23:55:09,377 - Connection from ('127.0.0.1', 58950)
+2024-11-19 23:55:36,254 - Loaded users from users.json
+2024-11-19 23:55:36,255 - Server started 127.0.0.1:8080
+2024-11-19 23:55:38,295 - Connection from ('127.0.0.1', 35478)
+2024-11-19 23:55:54,808 - Loaded users from users.json
+2024-11-19 23:55:54,808 - Server started 127.0.0.1:8080
+2024-11-19 23:55:57,364 - Connection from ('127.0.0.1', 59346)
+2024-11-19 23:58:06,858 - Loaded users from users.json
+2024-11-19 23:58:06,858 - Server started 127.0.0.1:8080
+2024-11-19 23:58:08,992 - Connection from ('127.0.0.1', 34370)
+2024-11-20 00:03:33,599 - Loaded users from users.json
+2024-11-20 00:03:33,600 - Server started 127.0.0.1:8080
+2024-11-20 00:03:37,590 - Connection from ('127.0.0.1', 37970)
+2024-11-20 00:07:22,563 - Loaded users from users.json
+2024-11-20 00:07:22,564 - Server started 127.0.0.1:8080
+2024-11-20 00:07:24,680 - Connection from ('127.0.0.1', 41718)
+2024-11-20 00:10:45,757 - Loaded users from users.json
+2024-11-20 00:10:45,757 - Server started 127.0.0.1:8080
+2024-11-20 00:11:07,916 - Connection from ('127.0.0.1', 48816)
+2024-11-20 00:13:03,298 - Loaded users from users.json
+2024-11-20 00:13:03,298 - Server started 127.0.0.1:8080
+2024-11-20 00:13:13,846 - Connection from ('127.0.0.1', 48532)
+2024-11-20 00:16:24,640 - Loaded users from users.json
+2024-11-20 00:16:24,642 - Server started 127.0.0.1:8080
+2024-11-20 00:16:27,355 - Connection from ('127.0.0.1', 48342)
+2024-11-20 00:17:47,264 - Loaded users from users.json
+2024-11-20 00:17:47,265 - Server started 127.0.0.1:8080
+2024-11-20 00:17:49,547 - Connection from ('127.0.0.1', 48350)
+2024-11-20 00:18:40,742 - Loaded users from users.json
+2024-11-20 00:18:40,743 - Error binding socket: [Errno 98] Address already in use
+2024-11-20 00:18:43,321 - Loaded users from users.json
+2024-11-20 00:18:43,321 - Error binding socket: [Errno 98] Address already in use
+2024-11-20 00:18:54,630 - Loaded users from users.json
+2024-11-20 00:18:54,631 - Server started 127.0.0.1:8081
+2024-11-20 00:18:57,118 - Connection from ('127.0.0.1', 45580)
+2024-11-20 00:20:36,611 - Loaded users from users.json
+2024-11-20 00:20:36,611 - Server started 127.0.0.1:8081
+2024-11-20 00:20:39,105 - Connection from ('127.0.0.1', 51708)
+2024-11-20 00:20:51,355 - Loaded users from users.json
+2024-11-20 00:20:51,355 - Server started 127.0.0.1:8081
+2024-11-20 00:20:53,988 - Connection from ('127.0.0.1', 37840)
+2024-11-20 00:21:08,325 - Loaded users from users.json
+2024-11-20 00:21:08,325 - Server started 127.0.0.1:8081
+2024-11-20 00:21:10,474 - Connection from ('127.0.0.1', 48284)
+2024-11-20 00:21:26,924 - Loaded users from users.json
+2024-11-20 00:21:26,924 - Server started 127.0.0.1:8081
+2024-11-20 00:21:29,243 - Connection from ('127.0.0.1', 38634)
+2024-11-20 00:22:38,727 - Loaded users from users.json
+2024-11-20 00:22:38,728 - Server started 127.0.0.1:8081
+2024-11-20 00:22:42,164 - Connection from ('127.0.0.1', 33154)
+2024-11-20 00:22:54,407 - Loaded users from users.json
+2024-11-20 00:22:54,408 - Server started 127.0.0.1:8081
+2024-11-20 00:22:56,804 - Connection from ('127.0.0.1', 59692)
+2024-11-20 00:32:28,901 - Loaded users from users.json
+2024-11-20 00:32:28,901 - Server started 127.0.0.1:8081
+2024-11-20 00:32:30,948 - Connection from ('127.0.0.1', 38016)
+2024-11-20 00:32:31,155 - Error during authentication: Invalid length header
+2024-11-20 00:32:39,850 - Connection from ('127.0.0.1', 54240)
+2024-11-20 00:32:40,105 - Error during authentication: Invalid length header
+2024-11-20 00:40:52,307 - Loaded users from users.json
+2024-11-20 00:40:52,308 - Server started 127.0.0.1:8081
+2024-11-20 00:40:54,656 - Connection from ('127.0.0.1', 52148)
+2024-11-20 00:41:09,047 - User jyolsna failed to authenticate
+2024-11-20 00:41:29,108 - Connection from ('127.0.0.1', 54556)
+2024-11-20 00:42:00,565 - User user1 authenticated successfully
+2024-11-20 00:42:00,566 - User list updated: user1 and sent to all clients
+2024-11-20 00:42:00,663 - Error handling client ('127.0.0.1', 54556): Invalid length header
+2024-11-20 00:42:00,663 - User list updated:  and sent to all clients
+2024-11-20 00:43:11,777 - Connection from ('127.0.0.1', 55628)
+2024-11-20 00:43:21,321 - User user2 authenticated successfully
+2024-11-20 00:43:21,321 - User list updated: user2 and sent to all clients
+2024-11-20 00:43:21,426 - Error handling client ('127.0.0.1', 55628): Invalid length header
+2024-11-20 00:43:21,426 - User list updated:  and sent to all clients
+2024-11-20 00:44:46,324 - Connection from ('127.0.0.1', 38922)
+2024-11-20 00:45:01,029 - User user1 failed to authenticate
+2024-11-20 00:45:16,444 - Connection from ('127.0.0.1', 60778)
+2024-11-20 00:45:28,745 - User user1 authenticated successfully
+2024-11-20 00:45:28,746 - User list updated: user1 and sent to all clients
+2024-11-20 00:46:16,109 - Connection from ('127.0.0.1', 38618)
+2024-11-20 00:46:25,586 - User user2 authenticated successfully
+2024-11-20 00:46:25,586 - User list updated: user1,user2 and sent to all clients
+2024-11-20 00:46:43,778 - Received message from ('127.0.0.1', 38618): user2:user1:hi
+2024-11-20 00:46:43,779 - Forwarded message to user1
+2024-11-20 00:46:57,531 - Received message from ('127.0.0.1', 38618): user2:user1:hehehe
+2024-11-20 00:46:57,532 - Forwarded message to user1
+2024-11-20 00:47:06,198 - Received message from ('127.0.0.1', 60778): user1:user2:bye
+2024-11-20 00:47:06,198 - Forwarded message to user2
+2024-11-20 00:47:23,168 - Error handling client ('127.0.0.1', 60778): Invalid length header
+2024-11-20 00:47:23,169 - User list updated: user2 and sent to all clients
+2024-11-20 00:47:35,148 - Error handling client ('127.0.0.1', 38618): Invalid length header
+2024-11-20 00:47:35,148 - User list updated:  and sent to all clients
+2024-11-20 00:48:41,625 - Loaded users from users.json
+2024-11-20 00:48:41,625 - Server started 127.0.0.1:8081
+2024-11-20 00:48:44,669 - Connection from ('127.0.0.1', 44404)
+2024-11-20 00:48:54,419 - User jyolsna authenticated successfully
+2024-11-20 00:48:54,420 - User list updated: jyolsna and sent to all clients
+2024-11-20 00:48:58,124 - Connection from ('127.0.0.1', 55048)
+2024-11-20 00:49:05,509 - User avanee authenticated successfully
+2024-11-20 00:49:05,510 - User list updated: jyolsna,avanee and sent to all clients
+2024-11-20 00:49:17,429 - Connection from ('127.0.0.1', 38494)
+2024-11-20 00:49:24,981 - User dehsna failed to authenticate
+2024-11-20 00:49:47,535 - Connection from ('127.0.0.1', 48358)
+2024-11-20 00:49:56,826 - User deshna authenticated successfully
+2024-11-20 00:49:56,827 - User list updated: jyolsna,avanee,deshna and sent to all clients
+2024-11-20 00:50:25,418 - Received message from ('127.0.0.1', 55048): avanee:jyolsna:Hey how are you
+2024-11-20 00:50:25,419 - Forwarded message to jyolsna
+2024-11-20 00:50:41,874 - Received message from ('127.0.0.1', 44404): jyolsna:avanee:i am doing good
+2024-11-20 00:50:41,874 - Forwarded message to avanee
+2024-11-20 00:50:55,730 - Received message from ('127.0.0.1', 44404): jyolsna:avanee:how are you
+2024-11-20 00:50:55,730 - Forwarded message to avanee
+2024-11-20 00:51:16,419 - Received message from ('127.0.0.1', 44404): jyolsna:deshna:how are yoy
+2024-11-20 00:51:16,420 - Forwarded message to deshna
+2024-11-20 00:51:40,438 - Received message from ('127.0.0.1', 48358): deshna:avanee:i am also good
+2024-11-20 00:51:40,439 - Forwarded message to avanee
+2024-11-20 00:51:57,510 - Received message from ('127.0.0.1', 55048): avanee:deshna:nice
+2024-11-20 00:51:57,511 - Forwarded message to deshna
+2024-11-20 00:52:15,986 - Error handling client ('127.0.0.1', 44404): Invalid length header
+2024-11-20 00:52:15,987 - User list updated: avanee,deshna and sent to all clients
+2024-11-20 00:52:16,824 - Error handling client ('127.0.0.1', 48358): Invalid length header
+2024-11-20 00:52:16,825 - User list updated: avanee and sent to all clients
+2024-11-20 00:52:18,078 - Error handling client ('127.0.0.1', 55048): Invalid length header
+2024-11-20 00:52:18,078 - User list updated:  and sent to all clients
+2024-11-20 00:53:35,083 - Loaded users from users.json
+2024-11-20 00:53:35,084 - Server started 127.0.0.1:8081
+2024-11-20 00:53:37,071 - Connection from ('127.0.0.1', 39998)
+2024-11-20 00:53:43,509 - User hi failed to authenticate
+2024-11-20 00:53:52,741 - Connection from ('127.0.0.1', 51974)
+2024-11-20 00:53:59,736 - User avanee authenticated successfully
+2024-11-20 00:53:59,736 - User list updated: avanee and sent to all clients
+2024-11-20 00:54:03,218 - Connection from ('127.0.0.1', 45658)
+2024-11-20 00:54:11,343 - User jyolsna authenticated successfully
+2024-11-20 00:54:11,345 - User list updated: avanee,jyolsna and sent to all clients
+2024-11-20 00:54:15,992 - Error handling client ('127.0.0.1', 45658): Invalid length header
+2024-11-20 00:54:15,994 - User list updated: avanee and sent to all clients
+2024-11-20 00:54:24,806 - Error handling client ('127.0.0.1', 51974): Invalid length header
+2024-11-20 00:54:24,807 - User list updated:  and sent to all clients
+2024-11-20 00:54:52,171 - Connection from ('127.0.0.1', 44018)
+2024-11-20 00:55:00,780 - User jyolsna authenticated successfully
+2024-11-20 00:55:00,781 - User list updated: jyolsna and sent to all clients
+2024-11-20 00:55:04,311 - Connection from ('127.0.0.1', 45696)
+2024-11-20 00:55:11,485 - User avanee authenticated successfully
+2024-11-20 00:55:11,487 - User list updated: jyolsna,avanee and sent to all clients
+2024-11-20 00:55:25,660 - Error handling client ('127.0.0.1', 44018): Invalid length header
+2024-11-20 00:55:25,661 - User list updated: avanee and sent to all clients
+2024-11-20 00:55:27,197 - Error handling client ('127.0.0.1', 45696): Invalid length header
+2024-11-20 00:55:27,197 - User list updated:  and sent to all clients
